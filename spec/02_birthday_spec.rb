@@ -14,5 +14,3 @@ describe "#happy_birthday" do
 end
 
 ## BONUS ##
-
-
